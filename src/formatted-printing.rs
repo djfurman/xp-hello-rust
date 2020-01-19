@@ -52,6 +52,6 @@ fn main() {
      */
 
      // Challenge Work
-     let pi = 3.141592
+     let pi = 3.141592;
      println!("Pi is roughly {0:.3}", pi);
 }

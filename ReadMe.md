@@ -9,5 +9,7 @@ This project is the base getting started project in the [official rust documenta
 
 ## Running individual parts
 
+Each individual component is an implementation of [rust-by-example](https://doc.rust-lang.org/stable/rust-by-example).
+
 1. Run `rustc src/hello.rs`
 1. Run `./hello` as the compiled binary
